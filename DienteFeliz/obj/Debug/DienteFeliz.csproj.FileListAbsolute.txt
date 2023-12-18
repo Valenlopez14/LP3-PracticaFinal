@@ -1,0 +1,11 @@
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\bin\Debug\DienteFeliz.exe.config
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\bin\Debug\DienteFeliz.exe
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\bin\Debug\DienteFeliz.pdb
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\obj\Debug\DienteFeliz.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\obj\Debug\DienteFeliz.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\obj\Debug\DienteFeliz.Form1.resources
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\obj\Debug\DienteFeliz.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\obj\Debug\DienteFeliz.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\obj\Debug\DienteFeliz.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\obj\Debug\DienteFeliz.exe
+C:\Users\valen\OneDrive\Escritorio\DienteFeliz\obj\Debug\DienteFeliz.pdb
